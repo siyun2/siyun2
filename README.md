@@ -36,3 +36,11 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+** Project**
+LuckyRich
+![image](https://github.com/user-attachments/assets/215865fa-4a9d-4bac-a3e8-479927d70154)
+https://github.com/terrydlek/KB-LuckyRich
+
+24.7
+![Uploading image.png…]()
+https://github.com/retooz/24.7
