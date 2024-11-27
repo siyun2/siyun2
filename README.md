@@ -42,5 +42,5 @@ LuckyRich
 https://github.com/terrydlek/KB-LuckyRich
 
 24.7
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/77527711-1a40-4ec5-828b-6e63fa922500)
 https://github.com/retooz/24.7
